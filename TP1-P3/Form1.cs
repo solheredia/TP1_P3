@@ -19,7 +19,8 @@ namespace TP1_P3
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-
+            //prueba
+            double hola = 2;
         }
     }
 }
